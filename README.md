@@ -1,7 +1,7 @@
 # PaperFlat
 纸张边角检测及纠偏
 
-This is an example of corners in the picture
+This is an example with corners in picture
 
 
 <p align="center">
@@ -9,7 +9,7 @@ This is an example of corners in the picture
 </p>
 
 
-This is an example of corners out of the picture
+This is an example with corners out of picture
 
 <br>
 <p align="center">
