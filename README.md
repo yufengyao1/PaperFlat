@@ -5,7 +5,7 @@ This is an example of PaperFlat
 
 
 <p align="center">
-    <img src="img/2.png" width="800">
+    <img height="300"  src="img/1.png">
 </p>
 
 
