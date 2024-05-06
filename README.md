@@ -1,8 +1,7 @@
 # PaperFlat
-papaer corner and edge detection
+Paper edge detection
 
 This is an example with corners in picture
-
 
 <p align="center">
     <img height="300"  src="img/1.png">
