@@ -3,12 +3,11 @@
 
 This is an example of PaperFlat 
 
-<br>
+
 <p align="center">
-    <img src="img/1.png" width="800">
+    <img src="img/2.png" width="800">
 </p>
 
-<br><br>
 
 This is an example of PaperFlat 
 
