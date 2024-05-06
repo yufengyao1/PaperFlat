@@ -1,5 +1,5 @@
 # PaperFlat
-纸张边角检测及纠偏
+papaer corner and edge detection
 
 This is an example with corners in picture
 
